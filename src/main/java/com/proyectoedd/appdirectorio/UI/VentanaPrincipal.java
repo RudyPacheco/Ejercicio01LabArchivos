@@ -310,7 +310,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
         registro.crearContacto(contac);
         
         limpiarCampos();
-        JOptionPane.showMessageDialog(null, "Contacto registado");
+       
         
     }//GEN-LAST:event_jButtonRegistrarActionPerformed
 
