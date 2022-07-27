@@ -1,3 +1,8 @@
 /home/andaryus777/NetBeansProjects/appDirectorio/src/main/java/com/proyectoedd/appdirectorio/AppDirectorio.java
 /home/andaryus777/NetBeansProjects/appDirectorio/src/main/java/com/proyectoedd/appdirectorio/UI/VentanaPrincipal.java
+/home/andaryus777/NetBeansProjects/appDirectorio/src/main/java/com/proyectoedd/appdirectorio/back/LeerArchivo.java
 /home/andaryus777/NetBeansProjects/appDirectorio/src/main/java/com/proyectoedd/appdirectorio/ejecutable/run.java
+/home/andaryus777/NetBeansProjects/appDirectorio/src/main/java/com/proyectoedd/appdirectorio/contacto/Contacto.java
+/home/andaryus777/NetBeansProjects/appDirectorio/src/main/java/com/proyectoedd/appdirectorio/back/llenarTabla.java
+/home/andaryus777/NetBeansProjects/appDirectorio/src/main/java/com/proyectoedd/appdirectorio/back/registrarContacto.java
+/home/andaryus777/NetBeansProjects/appDirectorio/src/main/java/com/proyectoedd/appdirectorio/UI/VerRegistros.java

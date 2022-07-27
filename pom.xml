@@ -24,4 +24,19 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>com.proyectoedd.appdirectorio.AppDirectorio</exec.mainClass>
     </properties>
+      <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <mainClass>com.proyectoedd.appdirectorio.ejecutable.run</mainClass>
+                        </manifest>
+                    </archive>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 </project>
